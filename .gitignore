@@ -1,0 +1,18 @@
+~$*
+*.tmp
+
+.venv/
+__pycache__/
+*.py[cod]
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.idea/
+.vscode/
+
+# Datos sin anonimizar: nunca deben entrar al repositorio
+*.APXT
+consolidado_UdeA.xlsx
+Individuales/
