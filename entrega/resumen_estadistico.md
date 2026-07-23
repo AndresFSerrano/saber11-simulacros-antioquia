@@ -11,8 +11,6 @@ Variable analizada: puntaje_global (Puntaje Global sobre 500).
 
 ## Notas
 
-Los resultados de Grupos UdeA se recalificaron el 22 de julio de 2026 con la clave correcta del examen que presentaron. La version anterior usaba la clave de otro simulacro y subestimaba cuatro de las cinco areas, por lo que las cifras de UdeA de este resumen no coinciden con entregas previas.
-
 Los estudiantes de una sola sesion en la fuente UdeA fueron recalculados sobre su total real de preguntas (120 o 134 en lugar de 254), lo que reduce la cola baja y hace su puntaje mas comparable con el resto. Si aun quedan ceros, corresponden a estudiantes ausentes que no presentaron el simulacro.
 
 Alcance: estas son cifras descriptivas del paquete de Andres, para que el grupo pueda unirlo con los demas paquetes. El histograma, el ajuste de la variable aleatoria normal y el calculo de probabilidades se hacen sobre el consolidado completo, una vez esten integrados los cinco paquetes, y no sobre este bloque por separado.
