@@ -23,6 +23,3 @@ códigos de estudiante.
 | I.E. Rural El Tablazo | 22 | 222.50 | 226.55 | 32.15 |
 | Envigado | 938 | 209.75 | 207.00 | 55.74 |
 | Total | 1126 | 221.95 | 216.00 | 62.84 |
-
-Corrección del 22 de julio de 2026: los Grupos UdeA se habían calificado con la clave de otro
-simulacro. Recalificados, su promedio pasó de 165.3 a 290.8 y el total de 203.45 a 221.95.
