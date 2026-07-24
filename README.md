@@ -14,8 +14,7 @@ Consolidado de los cinco paquetes del grupo:
 
 - `entrega/Matematica_U2_consolidado.xlsx` libro de entrega, cinco hojas.
 - `entrega/resumen_estadistico.md` medidas, tabla de frecuencias y probabilidades.
-- `entrega/graficas/histograma_normal.png` histograma con la normal propuesta superpuesta.
-- `entrega/graficas/qq_normal.png` grafico cuantil-cuantil contra la normal.
+- `entrega/graficas/` las figuras de abajo, en PNG, listas para el informe.
 - `datos/consolidado_saber11_completo.csv` los 4180 estudiantes, una fila por estudiante.
 - `datos/instituciones_completo.csv` las 101 instituciones con municipio, sector y ubicacion.
 - `referencia/` Saber 11 oficial 2022-2, dataset `kgxf-xxbe` de datos.gov.co.
@@ -39,3 +38,20 @@ se analiza el Simulacro 1, igual que en las demas fuentes.
 | Rionegro | David | 450 | 215.26 | 209.30 | 59.82 |
 | Semestre Cero | Santiago | 2605 | 174.18 | 170.00 | 40.08 |
 | **Consolidado** | | **4180** | **191.51** | **183.00** | **54.20** |
+
+## Ajuste a la normal
+
+Se propone X ~ Normal(191.51, 2937.47) con los parametros estimados de la muestra.
+
+![Histograma del puntaje global con la normal propuesta superpuesta](entrega/graficas/histograma_normal.png)
+
+El ajuste funciona en el centro: entre 150 y 250 puntos el modelo predice 63.8 % y se observa
+63.4 %. Se rompe en la cola derecha, donde por encima de 300 puntos predice 2.27 % y se observa
+4.52 %.
+
+![Grafico cuantil-cuantil del puntaje global contra la normal](entrega/graficas/qq_normal.png)
+
+El cuantil-cuantil muestra lo mismo: los puntos siguen la recta en el centro y se despegan por
+arriba a partir de los 300 puntos. La causa esta en la tabla de arriba, el consolidado es una
+mezcla de poblaciones con medias distintas. Detalle completo en
+[`entrega/resumen_estadistico.md`](entrega/resumen_estadistico.md).
