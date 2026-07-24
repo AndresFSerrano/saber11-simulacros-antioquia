@@ -1,12 +1,20 @@
 # Resumen estadistico del Puntaje Global
 
 Variable analizada: puntaje global del simulacro Saber 11, escala 0 a 500.
-Consolidado de los cinco paquetes del grupo: 101 instituciones de 63 municipios de Antioquia.
+Consolidado de los cinco paquetes del grupo: 4180 estudiantes de 101 instituciones en
+63 municipios de Antioquia, con una medicion por estudiante.
 
-De los 4654 registros recolectados entran 4180 al analisis. Se excluyen 473 registros de la
-segunda aplicacion de Rionegro, porque son los mismos estudiantes del Simulacro 1 y contarlos dos
-veces romperia la independencia de las observaciones, y 1 registro con puntaje 0 que corresponde a
-un estudiante ausente. Ninguno se borro: la hoja 2_Datos del Excel los conserva marcados.
+## Medidas de ubicacion y dispersion
+
+| Medida | Valor | Medida | Valor |
+|---|---|---|---|
+| Media | 191.51 | Rango | 399.70 |
+| Mediana | 183.00 | Rango intercuartilico | 68.40 |
+| Moda | 165.00 y 182.00 | Varianza | 2937.47 |
+| Primer cuartil | 153.00 | Desviacion estandar | 54.20 |
+| Tercer cuartil | 221.40 | Coeficiente de variacion | 28.30 % |
+| Minimo | 40.00 | Asimetria | 0.77 |
+| Maximo | 439.70 | Curtosis | 0.98 |
 
 ## Consolidado
 
@@ -27,7 +35,8 @@ un estudiante ausente. Ninguno se borro: la hoja 2_Datos del Excel los conserva 
 ## Distribucion de frecuencias
 
 Clases de ancho 25 puntos. La frecuencia esperada se calcula con la normal propuesta,
-X ~ Normal(191.51, 2937.47).
+X ~ Normal(191.51, 2937.47). Las figuras estan en `graficas/`: `histograma_normal.png`
+con la curva superpuesta y `qq_normal.png` con el grafico cuantil-cuantil.
 
 | Clase | Marca | Frecuencia observada | Frecuencia relativa | Frecuencia esperada normal |
 |---|---|---|---|---|

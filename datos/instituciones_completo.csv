@@ -1,102 +1,102 @@
-﻿institucion,fuente,municipio,departamento,sector,latitud,longitud,precision_ubicacion,n_estudiantes,promedio_global,institucion_fuente,n_analisis,promedio_analisis
-Grupos UdeA,UdeA,Medellín,Antioquia,Público (preuniversitario UdeA),6.2675,-75.5686,colegio,166,290.8,Grupos UdeA,165,292.58
-I.E. Rural el Tablazo,Tablazo,Rionegro,Antioquia,Oficial,6.1440246,-75.4484784,aproximada,22,222.5,I.E. Rural El Tablazo,22,222.5
-Alejandro Vélez Barrientos,Envigado,Envigado,Antioquia,Oficial,6.1700512,-75.5922482,colegio,69,210.2,ALEJANDRO VÉLEZ BARRIENTOS,69,210.22
-Comercial,Envigado,Envigado,Antioquia,Oficial,6.1534647,-75.5847027,colegio,72,184.9,COMERCIAL,72,184.86
-Darío de Bedout,Envigado,Envigado,Antioquia,Oficial,6.1679396,-75.578613,colegio,13,228.7,DARÍO DE BEDOUT,13,228.69
-José Manuel Restrepo,Envigado,Envigado,Antioquia,Oficial,6.1715726,-75.5908994,colegio,91,210.1,JOSÉ MANUEL RESTREPO,91,210.1
-José Miguel de la Calle,Envigado,Envigado,Antioquia,Oficial,6.1726759,-75.5812295,colegio,49,197.7,JOSÉ MIGUEL DE LA CALLE,49,197.67
-La Paz,Envigado,Envigado,Antioquia,Oficial,6.1619843,-75.593804,colegio,139,227.0,LA PAZ,139,227.03
-Las Palmas,Envigado,Envigado,Antioquia,Oficial,6.1512749,-75.5360508,colegio,40,195.8,LAS PALMAS,40,195.75
-Leticia Arango,Envigado,Envigado,Antioquia,Oficial,6.163249,-75.5941636,colegio,97,210.1,LETICIA ARANGO,97,210.12
-Manuel Uribe Ángel,Envigado,Envigado,Antioquia,Oficial,6.1702637,-75.5895184,colegio,98,207.2,MANUEL URIBE ÁNGEL,98,207.18
-Martín Eduardo,Envigado,Envigado,Antioquia,Oficial,6.1869358,-75.4899922,colegio,17,253.3,MARTÍN EDUARDO,17,253.29
-María Poussepin,Envigado,Envigado,Antioquia,Oficial,6.1709289,-75.5771223,colegio,21,234.3,MARÍA POUSSEPIN,21,234.33
-Normal Superior,Envigado,Envigado,Antioquia,Oficial,6.1670338,-75.5818357,colegio,147,212.2,NORMAL SUPERIOR,147,212.19
-Salado,Envigado,Envigado,Antioquia,Oficial,6.1534946,-75.5782343,colegio,53,184.8,SALADO,53,184.75
-San Vicente,Envigado,Envigado,Antioquia,Oficial,6.1667839,-75.5788449,colegio,32,214.8,SAN VICENTE,32,214.75
-Ana Gomez,Rionegro,Rionegro,Antioquia,Oficial,6.187030551,-75.3796659,aproximada,75,239.9413333,ANA GOMEZ,34,232.59
-Jose Maria Cordoba,Rionegro,Rionegro,Antioquia,Oficial,6.245744042,-75.56097862,aproximada,77,224.2233766,JOSE MARIA CORDOBA,38,220.52
-Antonio Donado,Rionegro,Rionegro,Antioquia,Oficial,6.143417459,-75.44879367,aproximada,56,186.05,ANTONIO DONADO,28,180.35
-Barro Blanco,Rionegro,Rionegro,Antioquia,Oficial,6.152638855,-75.4071849,aproximada,83,211.7457831,BARRO BLANCO,41,207.36
-Domingo Savio,Rionegro,Rionegro,Antioquia,Oficial,6.118188913,-75.44561732,aproximada,45,202.72,DOMINGO SAVIO,22,144.8
-Gilberto Echeverry,Rionegro,Rionegro,Antioquia,Oficial,6.107765245,-75.42161362,aproximada,110,235.9818182,GILBERTO ECHEVERRY,55,220.67
-Guillermo Gaviria,Rionegro,Rionegro,Antioquia,Oficial,6.172910928,-75.45485282,aproximada,26,233.3076923,GUILLERMO GAVIRIA,13,220.35
-La Mosquita,Rionegro,Rionegro,Antioquia,Oficial,6.206883923,-75.4396712,aproximada,43,203.927907,LA MOSQUITA,21,196.93
-San Jose de las Cuchillas,Rionegro,Rionegro,Antioquia,Oficial,6.179499627,-75.39381621,aproximada,108,202.0342593,SAN JOSE DE LAS CUCHILLAS,52,183.84
-Santa Barbara,Rionegro,Rionegro,Antioquia,Oficial,6.19834627,-75.36776506,aproximada,68,195.0544118,SANTA BARBARA,33,175.42
-Tecnico Industrial,Rionegro,Rionegro,Antioquia,Oficial,6.145106328,-75.37401384,aproximada,198,279.1570707,TECNICO INDUSTRIAL,96,263.71
-Baltazar Salazar,Rionegro,Rionegro,Antioquia,Oficial,6.078672536,-75.42374834,aproximada,34,251.0088235,BALTAZAR SALAZAR,17,237.65
-C.E.R. las Flores,Semestre Cero,Nechí,Antioquia,Oficial,8.0944,-74.7761,aproximada,35,138.0857143,C. E. R. LAS FLORES,35,138.09
-I.E. Anori,Semestre Cero,Anorí,Antioquia,Oficial,7.0736,-75.1481,aproximada,28,180.2142857,I. E. ANORI,28,180.21
-I.E. Antonio Nariño,Semestre Cero,Puerto Berrío,Antioquia,Oficial,6.4914,-74.4058,aproximada,34,134.5,I. E. ANTONIO NARIÑO,34,134.5
-I.E. Antonio Roldan Betancur,Semestre Cero,Briceño,Antioquia,Oficial,7.1108,-75.5511,aproximada,33,166.6060606,I. E. ANTONIO ROLDAN BETANCUR,33,166.61
-I.E. Anza,Semestre Cero,Anzá,Antioquia,Oficial,6.3458,-75.8569,aproximada,31,155.8709677,I. E. ANZA,31,155.87
-I.E. Camilo Torres,Semestre Cero,San Pedro de Urabá,Antioquia,Oficial,8.275,-76.369,aproximada,46,187.326087,I. E. CAMILO TORRES,46,187.33
-I.E. Eduardo Aguilar,Semestre Cero,Yolombó,Antioquia,Oficial,6.5986,-75.0119,aproximada,35,171.1714286,I. E. EDUARDO AGUILAR,35,171.17
-I.E. Efe Gomez,Semestre Cero,Vegachí,Antioquia,Oficial,6.7725,-74.7981,aproximada,34,199.0588235,I. E. EFE GOMEZ,34,199.06
-I.E. el Salvador,Semestre Cero,Pueblorrico,Antioquia,Oficial,5.7917,-75.8394,aproximada,32,178.84375,I. E. EL SALVADOR,32,178.84
-I.E. Escuela Normal Superior Mariano Ospina Rodriguez,Semestre Cero,Fredonia,Antioquia,Oficial,5.9264,-75.6742,aproximada,46,174.173913,I. E. ESCUELA NORMAL SUPERIOR MARIANO OSPINA RODRIGUEZ,46,174.17
-I.E. Filiberto Restrepo Sierra,Semestre Cero,Maceo,Antioquia,Oficial,6.5542,-74.7861,aproximada,38,232.0,I. E. FILIBERTO RESTREPO SIERRA,38,232.0
-I.E. Francisco Abel Gallego,Semestre Cero,San José de la Montaña,Antioquia,Oficial,6.8483,-75.6817,aproximada,36,172.8055556,I. E. FRANCISCO ABEL GALLEGO,36,172.81
-I.E. Gabriel Correa Velez,Semestre Cero,Caracolí,Antioquia,Oficial,6.4864,-74.76,aproximada,26,221.9230769,I. E. GABRIEL CORREA VELEZ,26,221.92
-I.E. Guarumo,Semestre Cero,Cáceres,Antioquia,Oficial,7.5758,-75.3486,aproximada,57,161.5438596,I. E. GUARUMO,57,161.54
-I.E. Jesus Maria Rojas Pagola,Semestre Cero,Santa Bárbara,Antioquia,Oficial,5.879,-75.5833,aproximada,51,164.3137255,I. E. JESUS MARIA ROJAS PAGOLA,51,164.31
-I.E. Jose Manuel Restrepo,Semestre Cero,Arboletes,Antioquia,Oficial,8.8508,-76.4267,aproximada,54,166.2222222,I. E. JOSE MANUEL RESTREPO,54,166.22
-I.E. Jose Maria Muñoz Florez,Semestre Cero,Carepa,Antioquia,Oficial,7.7578,-76.6547,aproximada,44,199.0909091,I. E. JOSE MARIA MUÑOZ FLOREZ,44,199.09
-I.E. Jose Maria Villa,Semestre Cero,Sopetrán,Antioquia,Oficial,6.5008,-75.7428,aproximada,36,187.2222222,I. E. JOSE MARIA VILLA,36,187.22
-I.E. Juan de Dios Uribe,Semestre Cero,Andes,Antioquia,Oficial,5.605,-75.9413,aproximada,21,162.4285714,I. E. JUAN DE DIOS URIBE,21,162.43
-I.E. Juan Evangelista Berrio,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,30,165.0,I. E. JUAN EVANGELISTA BERRIO,30,165.0
-I.E. Juan Pablo Gomez Ochoa,Semestre Cero,Caramanta,Antioquia,Oficial,5.5469,-75.6425,aproximada,26,172.7692308,I. E. JUAN PABLO GOMEZ OCHOA,26,172.77
-I.E. la Esmeralda,Semestre Cero,El Bagre,Antioquia,Oficial,7.6017,-74.8083,aproximada,40,150.9,I. E. LA ESMERALDA,40,150.9
-I.E. la Pintada,Semestre Cero,La Pintada,Antioquia,Oficial,5.7461,-75.6069,aproximada,36,173.5277778,I. E. LA PINTADA,36,173.53
-I.E. las Delicias,Semestre Cero,El Bagre,Antioquia,Oficial,7.6017,-74.8083,aproximada,34,153.5588235,I. E. LAS DELICIAS,34,153.56
-I.E. las Mercedes,Semestre Cero,Frontino,Antioquia,Oficial,6.7806,-76.1308,aproximada,20,172.0,I. E. LAS MERCEDES,20,172.0
-I.E. Leon Xiii,Semestre Cero,El Peñol,Antioquia,Oficial,6.2186,-75.2417,aproximada,32,179.78125,I. E. LEON XIII,32,179.78
-I.E. Liborio Bataller,Semestre Cero,Segovia,Antioquia,Oficial,7.0786,-74.6983,aproximada,23,181.5652174,I. E. LIBORIO BATALLER,23,181.57
-I.E. Llano de Cordoba,Semestre Cero,Remedios,Antioquia,Oficial,7.0269,-74.6975,aproximada,27,189.962963,I. E. LLANO DE CORDOBA,27,189.96
-I.E. Llanos de Cuiva,Semestre Cero,Yarumal,Antioquia,Oficial,6.9633,-75.4169,aproximada,30,186.6,I. E. LLANOS DE CUIVA,30,186.6
-I.E. Lorenzo Yali,Semestre Cero,Yalí,Antioquia,Oficial,6.6769,-74.8436,aproximada,20,198.85,I. E. LORENZO YALI,20,198.85
-I.E. Luis Eduardo Diaz,Semestre Cero,Yondó,Antioquia,Oficial,7.005,-74.0083,aproximada,70,179.5142857,I. E. LUIS EDUARDO DIAZ,70,179.51
-I.E. Luis Fernando Restrepo Restrepo,Semestre Cero,Zaragoza,Antioquia,Oficial,7.4914,-74.8692,aproximada,30,171.0,I. E. LUIS FERNANDO RESTREPO RESTREPO,30,171.0
-I.E. Maria Auxiliadora,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,31,150.6129032,I. E. MARIA AUXILIADORA,31,150.61
-I.E. Miguel Vicente Garrido Ortiz,Semestre Cero,Arboletes,Antioquia,Oficial,8.8508,-76.4267,aproximada,40,203.3,I. E. MIGUEL VICENTE GARRIDO ORTIZ,40,203.3
-I.E. Murindo,Semestre Cero,Murindó,Antioquia,Oficial,7.0169,-76.7536,aproximada,46,160.0217391,I. E. MURINDO,46,160.02
-I.E. Mutata,Semestre Cero,Mutatá,Antioquia,Oficial,7.2433,-76.4361,aproximada,55,174.9636364,I. E. MUTATA,55,174.96
-I.E. Nuestra Señora del Rosario,Semestre Cero,Campamento,Antioquia,Oficial,6.9786,-75.2961,aproximada,26,172.8076923,I. E. NUESTRA SEÑORA DEL ROSARIO,26,172.81
-I.E. Orlando Velasquez Arango,Semestre Cero,Venecia,Antioquia,Oficial,5.9625,-75.7358,aproximada,19,174.2631579,I. E. ORLANDO VELASQUEZ ARANGO,19,174.26
-I.E. Pascual Correa Florez,Semestre Cero,Amagá,Antioquia,Oficial,6.0329,-75.708,aproximada,32,170.46875,I. E. PASCUAL CORREA FLOREZ,32,170.47
-I.E. Pedro Nel Ospina,Semestre Cero,Ituango,Antioquia,Oficial,7.1717,-75.7336,aproximada,24,172.8333333,I. E. PEDRO NEL OSPINA,24,172.83
-I.E. Piamonte,Semestre Cero,Cáceres,Antioquia,Oficial,7.5758,-75.3486,aproximada,20,152.3,I. E. PIAMONTE,20,152.3
-I.E. Presbitero Gerardo Montoya,Semestre Cero,Amalfi,Antioquia,Oficial,6.9778,-74.9812,aproximada,57,194.0701754,I. E. PRESBITERO GERARDO MONTOYA,57,194.07
-I.E. Presbitero Libardo Aguirre,Semestre Cero,Concepción,Antioquia,Oficial,6.3953,-75.2575,aproximada,29,183.7241379,I. E. PRESBITERO LIBARDO AGUIRRE,29,183.72
-I.E. Pueblo Nuevo,Semestre Cero,Amalfi,Antioquia,Oficial,6.9778,-74.9812,aproximada,39,167.4871795,I. E. PUEBLO NUEVO,39,167.49
-I.E.R. Adolfo Moreno Usuga,Semestre Cero,Buriticá,Antioquia,Oficial,6.7119,-75.9086,aproximada,21,195.0952381,I. E. R. ADOLFO MORENO USUGA,21,195.1
-I.E.R. Caceri,Semestre Cero,Caucasia,Antioquia,Oficial,7.9869,-75.1972,aproximada,39,155.4871795,I. E. R. CACERI,39,155.49
-I.E.R. el Totumo,Semestre Cero,Necoclí,Antioquia,Oficial,8.4286,-76.7861,aproximada,32,168.4375,I. E. R. EL TOTUMO,32,168.44
-I.E.R. Guillermo Aguilar,Semestre Cero,Yolombó,Antioquia,Oficial,6.5986,-75.0119,aproximada,20,163.7,I. E. R. GUILLERMO AGUILAR,20,163.7
-I.E.R. Jaipera,Semestre Cero,Urrao,Antioquia,Oficial,6.315,-76.1336,aproximada,47,182.6808511,I. E. R. JAIPERA,47,182.68
-I.E.R. la Cruzada,Semestre Cero,Remedios,Antioquia,Oficial,7.0269,-74.6975,aproximada,59,144.3389831,I. E. R. LA CRUZADA,59,144.34
-I.E.R. la Inmaculada Caucheras,Semestre Cero,Mutatá,Antioquia,Oficial,7.2433,-76.4361,aproximada,24,188.25,I. E. R. LA INMACULADA CAUCHERAS,24,188.25
-I.E.R. la Sierra,Semestre Cero,Puerto Nare,Antioquia,Oficial,6.1883,-74.45847,aproximada,31,170.7419355,I. E. R. LA SIERRA,31,170.74
-I.E.R. la Union,Semestre Cero,Puerto Nare,Antioquia,Oficial,6.1883,-74.45847,aproximada,24,157.0,I. E. R. LA UNION,24,157.0
-I.E.R. Marco A Rojo,Semestre Cero,Valdivia,Antioquia,Oficial,7.1811,-75.4419,aproximada,39,164.7435897,I. E. R. MARCO A ROJO,39,164.74
-I.E.R. Mellito,Semestre Cero,Necoclí,Antioquia,Oficial,8.4286,-76.7861,aproximada,43,144.9302326,I. E. R. MELLITO,43,144.93
-I.E.R. Porcesito,Semestre Cero,Santo Domingo,Antioquia,Oficial,6.4719,-75.1669,aproximada,21,168.1428571,I. E. R. PORCESITO,21,168.14
-I.E.R. San Francisco de Asis,Semestre Cero,Jericó,Antioquia,Oficial,5.7925,-75.7869,aproximada,31,161.9354839,I. E. R. SAN FRANCISCO DE ASIS,31,161.94
-I.E.R. Zungo Embarcadero,Semestre Cero,Carepa,Antioquia,Oficial,7.7578,-76.6547,aproximada,29,161.9655172,I. E. R. ZUNGO EMBARCADERO,29,161.97
-I.E. San Andres,Semestre Cero,San Andrés de Cuerquia,Antioquia,Oficial,6.9158,-75.6739,aproximada,21,212.3809524,I. E. SAN ANDRES,21,212.38
-I.E. San Diego,Semestre Cero,Liborina,Antioquia,Oficial,6.6781,-75.8114,aproximada,34,172.4117647,I. E. SAN DIEGO,34,172.41
-I.E. San Jose,Semestre Cero,Angelópolis,Antioquia,Oficial,6.1214,-75.7159,aproximada,96,167.1458333,I. E. SAN JOSE,96,167.15
-I.E. San Juan Bosco,Semestre Cero,Caicedo,Antioquia,Oficial,6.4086,-75.9828,aproximada,23,195.7391304,I. E. SAN JUAN BOSCO,23,195.74
-I.E. San Juan de Uraba,Semestre Cero,San Juan de Urabá,Antioquia,Oficial,8.7611,-76.5303,aproximada,85,179.7882353,I. E. SAN JUAN DE URABA,85,179.79
-I.E. San Luis Gonzaga,Semestre Cero,Santa Fe de Antioquia,Antioquia,Oficial,6.5569,-75.8281,aproximada,39,212.3333333,I. E. SAN LUIS GONZAGA,39,212.33
-I.E. San Pedro de Uraba,Semestre Cero,San Pedro de Urabá,Antioquia,Oficial,8.275,-76.369,aproximada,22,170.5454545,I. E. SAN PEDRO DE URABA,22,170.55
-I.E. Santa Teresa,Semestre Cero,Argelia,Antioquia,Oficial,5.7319,-75.1431,aproximada,40,203.55,I. E. SANTA TERESA,40,203.55
-I.E. Santo Domingo,Semestre Cero,Caucasia,Antioquia,Oficial,7.9869,-75.1972,aproximada,31,146.3870968,I. E. SANTO DOMINGO,31,146.39
-I.E. Urbana San Jose,Semestre Cero,Ebéjico,Antioquia,Oficial,6.3267,-75.7686,aproximada,36,214.1111111,I. E. URBANA SAN JOSE,36,214.11
-I.E. Vigia del Fuerte,Semestre Cero,Vigía del Fuerte,Antioquia,Oficial,6.5861,-76.8864,aproximada,34,140.8235294,I. E. VIGIA DEL FUERTE,34,140.82
-I.E. Municipal Jose de los Santos Zuñiga,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,47,174.9574468,I.E. MUNICIPAL JOSE DE LOS SANTOS ZUÑIGA,47,174.96
-I.E. Pbro. Ricardo Luis Gutierrez Tobon,Semestre Cero,Belmira,Antioquia,Oficial,6.6047,-75.6664,aproximada,28,187.0,I.E. PBRO. RICARDO LUIS GUTIERREZ TOBON,28,187.0
-I.E.R. Hojas Anchas,Semestre Cero,Guarne,Antioquia,Oficial,6.28,-75.4428,aproximada,33,171.7272727,I.E.R. HOJAS ANCHAS,33,171.73
-Palmira,Semestre Cero,El Peñol,Antioquia,Oficial,6.2186,-75.2417,aproximada,23,164.9130435,PALMIRA,23,164.91
+﻿institucion,fuente,municipio,departamento,sector,latitud,longitud,precision_ubicacion,n_estudiantes,promedio_global,institucion_fuente
+Grupos UdeA,UdeA,Medellín,Antioquia,Público (preuniversitario UdeA),6.2675,-75.5686,colegio,165,292.58,Grupos UdeA
+Alejandro Vélez Barrientos,Envigado,Envigado,Antioquia,Oficial,6.1700512,-75.5922482,colegio,69,210.22,ALEJANDRO VÉLEZ BARRIENTOS
+Comercial,Envigado,Envigado,Antioquia,Oficial,6.1534647,-75.5847027,colegio,72,184.86,COMERCIAL
+Darío de Bedout,Envigado,Envigado,Antioquia,Oficial,6.1679396,-75.578613,colegio,13,228.69,DARÍO DE BEDOUT
+José Manuel Restrepo,Envigado,Envigado,Antioquia,Oficial,6.1715726,-75.5908994,colegio,91,210.1,JOSÉ MANUEL RESTREPO
+José Miguel de la Calle,Envigado,Envigado,Antioquia,Oficial,6.1726759,-75.5812295,colegio,49,197.67,JOSÉ MIGUEL DE LA CALLE
+La Paz,Envigado,Envigado,Antioquia,Oficial,6.1619843,-75.593804,colegio,139,227.03,LA PAZ
+Las Palmas,Envigado,Envigado,Antioquia,Oficial,6.1512749,-75.5360508,colegio,40,195.75,LAS PALMAS
+Leticia Arango,Envigado,Envigado,Antioquia,Oficial,6.163249,-75.5941636,colegio,97,210.12,LETICIA ARANGO
+Manuel Uribe Ángel,Envigado,Envigado,Antioquia,Oficial,6.1702637,-75.5895184,colegio,98,207.18,MANUEL URIBE ÁNGEL
+Martín Eduardo,Envigado,Envigado,Antioquia,Oficial,6.1869358,-75.4899922,colegio,17,253.29,MARTÍN EDUARDO
+María Poussepin,Envigado,Envigado,Antioquia,Oficial,6.1709289,-75.5771223,colegio,21,234.33,MARÍA POUSSEPIN
+Normal Superior,Envigado,Envigado,Antioquia,Oficial,6.1670338,-75.5818357,colegio,147,212.19,NORMAL SUPERIOR
+Salado,Envigado,Envigado,Antioquia,Oficial,6.1534946,-75.5782343,colegio,53,184.75,SALADO
+San Vicente,Envigado,Envigado,Antioquia,Oficial,6.1667839,-75.5788449,colegio,32,214.75,SAN VICENTE
+I.E. Rural el Tablazo,Tablazo,Rionegro,Antioquia,Oficial,6.1440246,-75.4484784,aproximada,22,222.5,I.E. Rural El Tablazo
+Ana Gomez,Rionegro,Rionegro,Antioquia,Oficial,6.187030551,-75.3796659,aproximada,34,232.59,ANA GOMEZ
+Antonio Donado,Rionegro,Rionegro,Antioquia,Oficial,6.143417459,-75.44879367,aproximada,28,180.35,ANTONIO DONADO
+Baltazar Salazar,Rionegro,Rionegro,Antioquia,Oficial,6.078672536,-75.42374834,aproximada,17,237.65,BALTAZAR SALAZAR
+Barro Blanco,Rionegro,Rionegro,Antioquia,Oficial,6.152638855,-75.4071849,aproximada,41,207.36,BARRO BLANCO
+Domingo Savio,Rionegro,Rionegro,Antioquia,Oficial,6.118188913,-75.44561732,aproximada,22,144.8,DOMINGO SAVIO
+Gilberto Echeverry,Rionegro,Rionegro,Antioquia,Oficial,6.107765245,-75.42161362,aproximada,55,220.67,GILBERTO ECHEVERRY
+Guillermo Gaviria,Rionegro,Rionegro,Antioquia,Oficial,6.172910928,-75.45485282,aproximada,13,220.35,GUILLERMO GAVIRIA
+Jose Maria Cordoba,Rionegro,Rionegro,Antioquia,Oficial,6.245744042,-75.56097862,aproximada,38,220.52,JOSE MARIA CORDOBA
+La Mosquita,Rionegro,Rionegro,Antioquia,Oficial,6.206883923,-75.4396712,aproximada,21,196.93,LA MOSQUITA
+San Jose de las Cuchillas,Rionegro,Rionegro,Antioquia,Oficial,6.179499627,-75.39381621,aproximada,52,183.84,SAN JOSE DE LAS CUCHILLAS
+Santa Barbara,Rionegro,Rionegro,Antioquia,Oficial,6.19834627,-75.36776506,aproximada,33,175.42,SANTA BARBARA
+Tecnico Industrial,Rionegro,Rionegro,Antioquia,Oficial,6.145106328,-75.37401384,aproximada,96,263.71,TECNICO INDUSTRIAL
+C.E.R. las Flores,Semestre Cero,Nechí,Antioquia,Oficial,8.0944,-74.7761,aproximada,35,138.09,C. E. R. LAS FLORES
+I.E. Anori,Semestre Cero,Anorí,Antioquia,Oficial,7.0736,-75.1481,aproximada,28,180.21,I. E. ANORI
+I.E. Antonio Nariño,Semestre Cero,Puerto Berrío,Antioquia,Oficial,6.4914,-74.4058,aproximada,34,134.5,I. E. ANTONIO NARIÑO
+I.E. Antonio Roldan Betancur,Semestre Cero,Briceño,Antioquia,Oficial,7.1108,-75.5511,aproximada,33,166.61,I. E. ANTONIO ROLDAN BETANCUR
+I.E. Anza,Semestre Cero,Anzá,Antioquia,Oficial,6.3458,-75.8569,aproximada,31,155.87,I. E. ANZA
+I.E. Camilo Torres,Semestre Cero,San Pedro de Urabá,Antioquia,Oficial,8.275,-76.369,aproximada,46,187.33,I. E. CAMILO TORRES
+I.E. Eduardo Aguilar,Semestre Cero,Yolombó,Antioquia,Oficial,6.5986,-75.0119,aproximada,35,171.17,I. E. EDUARDO AGUILAR
+I.E. Efe Gomez,Semestre Cero,Vegachí,Antioquia,Oficial,6.7725,-74.7981,aproximada,34,199.06,I. E. EFE GOMEZ
+I.E. Escuela Normal Superior Mariano Ospina Rodriguez,Semestre Cero,Fredonia,Antioquia,Oficial,5.9264,-75.6742,aproximada,46,174.17,I. E. ESCUELA NORMAL SUPERIOR MARIANO OSPINA RODRIGUEZ
+I.E. Filiberto Restrepo Sierra,Semestre Cero,Maceo,Antioquia,Oficial,6.5542,-74.7861,aproximada,38,232.0,I. E. FILIBERTO RESTREPO SIERRA
+I.E. Francisco Abel Gallego,Semestre Cero,San José de la Montaña,Antioquia,Oficial,6.8483,-75.6817,aproximada,36,172.81,I. E. FRANCISCO ABEL GALLEGO
+I.E. Gabriel Correa Velez,Semestre Cero,Caracolí,Antioquia,Oficial,6.4864,-74.76,aproximada,26,221.92,I. E. GABRIEL CORREA VELEZ
+I.E. Guarumo,Semestre Cero,Cáceres,Antioquia,Oficial,7.5758,-75.3486,aproximada,57,161.54,I. E. GUARUMO
+I.E. Jesus Maria Rojas Pagola,Semestre Cero,Santa Bárbara,Antioquia,Oficial,5.879,-75.5833,aproximada,51,164.31,I. E. JESUS MARIA ROJAS PAGOLA
+I.E. Jose Manuel Restrepo,Semestre Cero,Arboletes,Antioquia,Oficial,8.8508,-76.4267,aproximada,54,166.22,I. E. JOSE MANUEL RESTREPO
+I.E. Jose Maria Muñoz Florez,Semestre Cero,Carepa,Antioquia,Oficial,7.7578,-76.6547,aproximada,44,199.09,I. E. JOSE MARIA MUÑOZ FLOREZ
+I.E. Jose Maria Villa,Semestre Cero,Sopetrán,Antioquia,Oficial,6.5008,-75.7428,aproximada,36,187.22,I. E. JOSE MARIA VILLA
+I.E. Juan Evangelista Berrio,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,30,165.0,I. E. JUAN EVANGELISTA BERRIO
+I.E. Juan Pablo Gomez Ochoa,Semestre Cero,Caramanta,Antioquia,Oficial,5.5469,-75.6425,aproximada,26,172.77,I. E. JUAN PABLO GOMEZ OCHOA
+I.E. Juan de Dios Uribe,Semestre Cero,Andes,Antioquia,Oficial,5.605,-75.9413,aproximada,21,162.43,I. E. JUAN DE DIOS URIBE
+I.E. Leon Xiii,Semestre Cero,El Peñol,Antioquia,Oficial,6.2186,-75.2417,aproximada,32,179.78,I. E. LEON XIII
+I.E. Liborio Bataller,Semestre Cero,Segovia,Antioquia,Oficial,7.0786,-74.6983,aproximada,23,181.57,I. E. LIBORIO BATALLER
+I.E. Llano de Cordoba,Semestre Cero,Remedios,Antioquia,Oficial,7.0269,-74.6975,aproximada,27,189.96,I. E. LLANO DE CORDOBA
+I.E. Llanos de Cuiva,Semestre Cero,Yarumal,Antioquia,Oficial,6.9633,-75.4169,aproximada,30,186.6,I. E. LLANOS DE CUIVA
+I.E. Lorenzo Yali,Semestre Cero,Yalí,Antioquia,Oficial,6.6769,-74.8436,aproximada,20,198.85,I. E. LORENZO YALI
+I.E. Luis Eduardo Diaz,Semestre Cero,Yondó,Antioquia,Oficial,7.005,-74.0083,aproximada,70,179.51,I. E. LUIS EDUARDO DIAZ
+I.E. Luis Fernando Restrepo Restrepo,Semestre Cero,Zaragoza,Antioquia,Oficial,7.4914,-74.8692,aproximada,30,171.0,I. E. LUIS FERNANDO RESTREPO RESTREPO
+I.E. Maria Auxiliadora,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,31,150.61,I. E. MARIA AUXILIADORA
+I.E. Miguel Vicente Garrido Ortiz,Semestre Cero,Arboletes,Antioquia,Oficial,8.8508,-76.4267,aproximada,40,203.3,I. E. MIGUEL VICENTE GARRIDO ORTIZ
+I.E. Municipal Jose de los Santos Zuñiga,Semestre Cero,Chigorodó,Antioquia,Oficial,7.6672,-76.6811,aproximada,47,174.96,I.E. MUNICIPAL JOSE DE LOS SANTOS ZUÑIGA
+I.E. Murindo,Semestre Cero,Murindó,Antioquia,Oficial,7.0169,-76.7536,aproximada,46,160.02,I. E. MURINDO
+I.E. Mutata,Semestre Cero,Mutatá,Antioquia,Oficial,7.2433,-76.4361,aproximada,55,174.96,I. E. MUTATA
+I.E. Nuestra Señora del Rosario,Semestre Cero,Campamento,Antioquia,Oficial,6.9786,-75.2961,aproximada,26,172.81,I. E. NUESTRA SEÑORA DEL ROSARIO
+I.E. Orlando Velasquez Arango,Semestre Cero,Venecia,Antioquia,Oficial,5.9625,-75.7358,aproximada,19,174.26,I. E. ORLANDO VELASQUEZ ARANGO
+I.E. Pascual Correa Florez,Semestre Cero,Amagá,Antioquia,Oficial,6.0329,-75.708,aproximada,32,170.47,I. E. PASCUAL CORREA FLOREZ
+I.E. Pbro. Ricardo Luis Gutierrez Tobon,Semestre Cero,Belmira,Antioquia,Oficial,6.6047,-75.6664,aproximada,28,187.0,I.E. PBRO. RICARDO LUIS GUTIERREZ TOBON
+I.E. Pedro Nel Ospina,Semestre Cero,Ituango,Antioquia,Oficial,7.1717,-75.7336,aproximada,24,172.83,I. E. PEDRO NEL OSPINA
+I.E. Piamonte,Semestre Cero,Cáceres,Antioquia,Oficial,7.5758,-75.3486,aproximada,20,152.3,I. E. PIAMONTE
+I.E. Presbitero Gerardo Montoya,Semestre Cero,Amalfi,Antioquia,Oficial,6.9778,-74.9812,aproximada,57,194.07,I. E. PRESBITERO GERARDO MONTOYA
+I.E. Presbitero Libardo Aguirre,Semestre Cero,Concepción,Antioquia,Oficial,6.3953,-75.2575,aproximada,29,183.72,I. E. PRESBITERO LIBARDO AGUIRRE
+I.E. Pueblo Nuevo,Semestre Cero,Amalfi,Antioquia,Oficial,6.9778,-74.9812,aproximada,39,167.49,I. E. PUEBLO NUEVO
+I.E. San Andres,Semestre Cero,San Andrés de Cuerquia,Antioquia,Oficial,6.9158,-75.6739,aproximada,21,212.38,I. E. SAN ANDRES
+I.E. San Diego,Semestre Cero,Liborina,Antioquia,Oficial,6.6781,-75.8114,aproximada,34,172.41,I. E. SAN DIEGO
+I.E. San Jose,Semestre Cero,Angelópolis,Antioquia,Oficial,6.1214,-75.7159,aproximada,96,167.15,I. E. SAN JOSE
+I.E. San Juan Bosco,Semestre Cero,Caicedo,Antioquia,Oficial,6.4086,-75.9828,aproximada,23,195.74,I. E. SAN JUAN BOSCO
+I.E. San Juan de Uraba,Semestre Cero,San Juan de Urabá,Antioquia,Oficial,8.7611,-76.5303,aproximada,85,179.79,I. E. SAN JUAN DE URABA
+I.E. San Luis Gonzaga,Semestre Cero,Santa Fe de Antioquia,Antioquia,Oficial,6.5569,-75.8281,aproximada,39,212.33,I. E. SAN LUIS GONZAGA
+I.E. San Pedro de Uraba,Semestre Cero,San Pedro de Urabá,Antioquia,Oficial,8.275,-76.369,aproximada,22,170.55,I. E. SAN PEDRO DE URABA
+I.E. Santa Teresa,Semestre Cero,Argelia,Antioquia,Oficial,5.7319,-75.1431,aproximada,40,203.55,I. E. SANTA TERESA
+I.E. Santo Domingo,Semestre Cero,Caucasia,Antioquia,Oficial,7.9869,-75.1972,aproximada,31,146.39,I. E. SANTO DOMINGO
+I.E. Urbana San Jose,Semestre Cero,Ebéjico,Antioquia,Oficial,6.3267,-75.7686,aproximada,36,214.11,I. E. URBANA SAN JOSE
+I.E. Vigia del Fuerte,Semestre Cero,Vigía del Fuerte,Antioquia,Oficial,6.5861,-76.8864,aproximada,34,140.82,I. E. VIGIA DEL FUERTE
+I.E. el Salvador,Semestre Cero,Pueblorrico,Antioquia,Oficial,5.7917,-75.8394,aproximada,32,178.84,I. E. EL SALVADOR
+I.E. la Esmeralda,Semestre Cero,El Bagre,Antioquia,Oficial,7.6017,-74.8083,aproximada,40,150.9,I. E. LA ESMERALDA
+I.E. la Pintada,Semestre Cero,La Pintada,Antioquia,Oficial,5.7461,-75.6069,aproximada,36,173.53,I. E. LA PINTADA
+I.E. las Delicias,Semestre Cero,El Bagre,Antioquia,Oficial,7.6017,-74.8083,aproximada,34,153.56,I. E. LAS DELICIAS
+I.E. las Mercedes,Semestre Cero,Frontino,Antioquia,Oficial,6.7806,-76.1308,aproximada,20,172.0,I. E. LAS MERCEDES
+I.E.R. Adolfo Moreno Usuga,Semestre Cero,Buriticá,Antioquia,Oficial,6.7119,-75.9086,aproximada,21,195.1,I. E. R. ADOLFO MORENO USUGA
+I.E.R. Caceri,Semestre Cero,Caucasia,Antioquia,Oficial,7.9869,-75.1972,aproximada,39,155.49,I. E. R. CACERI
+I.E.R. Guillermo Aguilar,Semestre Cero,Yolombó,Antioquia,Oficial,6.5986,-75.0119,aproximada,20,163.7,I. E. R. GUILLERMO AGUILAR
+I.E.R. Hojas Anchas,Semestre Cero,Guarne,Antioquia,Oficial,6.28,-75.4428,aproximada,33,171.73,I.E.R. HOJAS ANCHAS
+I.E.R. Jaipera,Semestre Cero,Urrao,Antioquia,Oficial,6.315,-76.1336,aproximada,47,182.68,I. E. R. JAIPERA
+I.E.R. Marco A Rojo,Semestre Cero,Valdivia,Antioquia,Oficial,7.1811,-75.4419,aproximada,39,164.74,I. E. R. MARCO A ROJO
+I.E.R. Mellito,Semestre Cero,Necoclí,Antioquia,Oficial,8.4286,-76.7861,aproximada,43,144.93,I. E. R. MELLITO
+I.E.R. Porcesito,Semestre Cero,Santo Domingo,Antioquia,Oficial,6.4719,-75.1669,aproximada,21,168.14,I. E. R. PORCESITO
+I.E.R. San Francisco de Asis,Semestre Cero,Jericó,Antioquia,Oficial,5.7925,-75.7869,aproximada,31,161.94,I. E. R. SAN FRANCISCO DE ASIS
+I.E.R. Zungo Embarcadero,Semestre Cero,Carepa,Antioquia,Oficial,7.7578,-76.6547,aproximada,29,161.97,I. E. R. ZUNGO EMBARCADERO
+I.E.R. el Totumo,Semestre Cero,Necoclí,Antioquia,Oficial,8.4286,-76.7861,aproximada,32,168.44,I. E. R. EL TOTUMO
+I.E.R. la Cruzada,Semestre Cero,Remedios,Antioquia,Oficial,7.0269,-74.6975,aproximada,59,144.34,I. E. R. LA CRUZADA
+I.E.R. la Inmaculada Caucheras,Semestre Cero,Mutatá,Antioquia,Oficial,7.2433,-76.4361,aproximada,24,188.25,I. E. R. LA INMACULADA CAUCHERAS
+I.E.R. la Sierra,Semestre Cero,Puerto Nare,Antioquia,Oficial,6.1883,-74.45847,aproximada,31,170.74,I. E. R. LA SIERRA
+I.E.R. la Union,Semestre Cero,Puerto Nare,Antioquia,Oficial,6.1883,-74.45847,aproximada,24,157.0,I. E. R. LA UNION
+Palmira,Semestre Cero,El Peñol,Antioquia,Oficial,6.2186,-75.2417,aproximada,23,164.91,PALMIRA
